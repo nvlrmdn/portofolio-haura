@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Certified Human Capital Officer, Industrial Engineering graduate, skilled in HR solutions, competency modeling, performance management, and organizational improvement.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing"
+    "https://drive.google.com/file/d/1GXCJsnUM-v4oHQ3-WSZKznqgvGkNZjvA/view?usp=sharing"
 };
 
 const socialMediaLinks = [
@@ -86,27 +86,16 @@ const skills = {
           imageSrc: "powerpoint.png",
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
+          skillName: "Word",
+          imageSrc: "word.png",
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
+          skillName: "Excel",
+          imageSrc: "excel.png",
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
         },
         {
           skillName: "Deeplearning",
@@ -709,7 +698,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Haura.jpg",
+    profile_image_path: "Haura.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
