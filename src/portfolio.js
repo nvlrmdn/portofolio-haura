@@ -200,52 +200,28 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
-      style: {
-        color: "#F79F1B",
-      },
-      profileLink: "https://leetcode.com/layman_brother/",
+      skillName: "Power Point",
+      imageSrc: "powerpoint.png",
     },
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      skillName: "Word",
+      imageSrc: "word.png",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      skillName: "Excel",
+      imageSrc: "excel.png",
     },
     {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      skillName: "Visio",
+      imageSrc: "visio.png",
     },
     {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      skillName: "Tableau",
+      imageSrc: "tableau.png",
     },
     {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      skillName: "Draw.io",
+      imageSrc: "drawio.png",
     },
   ],
 };
