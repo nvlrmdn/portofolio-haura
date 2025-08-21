@@ -83,7 +83,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Power Point",
-          imageSrc: "assets/images/powerpoint-2.svg",
+          imageSrc: "assets/images/powerpoint.png",
           style: {
             backgroundColor: "transparent",
           },
