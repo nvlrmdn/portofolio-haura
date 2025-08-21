@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Haura's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Certified of Human Capital Officer and results-driven Industrial Engineering graduate with a strong focus on Human Capital Management, offering hands-on experience in organizational and people development across various dynamic and fast-paced environments. Demonstrated expertise in competency modeling, performance management, learning and development, organizational transformation, and process improvements. Skilled in implementing end-to-end HR solutions such as job evaluation, workload analysis, career pathing, L&D programs (ADDIE), and performance systems. Recognized for analytical thinking, creative, problem solving, adaptability, and effective collaboration in cross-functional HR project and continuous organizational improvement efforts. Dedicated to supporting impactful HR initiatives that align people strategies with business goals.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Haura Haya Santosa Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,11 +19,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Haura Haya Santosa",
+  logo_name: "HauraHayaSantosa",
+  nickname: "Haya",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Certified of Human Capital Officer and results-driven Industrial Engineering graduate with a strong focus on Human Capital Management, offering hands-on experience in organizational and people development across various dynamic and fast-paced environments. Demonstrated expertise in competency modeling, performance management, learning and development, organizational transformation, and process improvements. Skilled in implementing end-to-end HR solutions such as job evaluation, workload analysis, career pathing, L&D programs (ADDIE), and performance systems. Recognized for analytical thinking, creative, problem solving, adaptability, and effective collaboration in cross-functional HR project and continuous organizational improvement efforts. Dedicated to supporting impactful HR initiatives that align people strategies with business goals.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
