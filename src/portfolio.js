@@ -81,6 +81,28 @@ const skills = {
         "🔗 Competency & Capability Framework – Building organizational competency frameworks to align people capability with strategic goals.",
         "🔗 Performance & Change Management – Designing performance management systems (KPI, OKR, 360° feedback), conducting organizational diagnosis, and facilitating change management initiatives.",
       ],
+      softwareSkills: [
+        {
+          skillName: "Power Point",
+          imageSrc: "powerpoint.png",
+        },
+        {
+          skillName: "Word",
+          imageSrc: "word.png",
+        },
+        {
+          skillName: "Excel",
+          imageSrc: "excel.png",
+        },
+        {
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
+        },
+        {
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
+        },
+      ],
     },
     {
       title: "People Development (PD / L&D)",
@@ -89,6 +111,79 @@ const skills = {
         "🔗 Learning Needs Analysis – Identifying skill gaps through TNA to ensure learning aligns with organizational priorities.",
         "🔗 Learning Design & Delivery – Creating learning programs using ADDIE, blended learning, and e-learning approaches.",
         "🔗 Growth Enablement – Developing Individual Development Plans (IDP), facilitating coaching & mentoring, and evaluating learning impact (Kirkpatrick).",
+      ],
+      softwareSkills: [
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "CSS3",
+          fontAwesomeClassname: "fa-css3",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "Sass",
+          fontAwesomeClassname: "simple-icons:sass",
+          style: {
+            color: "#CC6699",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "NodeJS",
+          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837",
+          },
+        },
+        {
+          skillName: "Yarn",
+          fontAwesomeClassname: "simple-icons:yarn",
+          style: {
+            color: "#2C8EBB",
+          },
+        },
+        {
+          skillName: "Gatsby",
+          fontAwesomeClassname: "simple-icons:gatsby",
+          style: {
+            color: "#663399",
+          },
+        },
+        {
+          skillName: "Flutter",
+          fontAwesomeClassname: "simple-icons:flutter",
+          style: {
+            color: "#02569B",
+          },
+        },
       ],
     },
     {
@@ -99,75 +194,65 @@ const skills = {
         "🔗 Career Development & Engagement – Designing career pathing, fostering employee engagement, and implementing retention strategies.",
         "🔗 Recognition & Retention – Supporting reward and recognition initiatives to sustain long-term talent commitment and organizational performance.",
       ],
+      softwareSkills: [
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:googlecloud",
+          style: {
+            color: "#4285F4",
+          },
+        },
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Azure",
+          fontAwesomeClassname: "simple-icons:microsoftazure",
+          style: {
+            color: "#0089D6",
+          },
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
+          style: {
+            color: "#326CE5",
+          },
+        },
+      ],
     },
-//    {
-//      title: "Cloud Infra-Architecture",
-//      fileName: "CloudInfraImg",
-//      skills: [
-//        "🔗 Experience working on multiple cloud platforms",
-//        "🔗 Hosting and maintaining websites on virtual machine instances along with integration of databases",
-//        "🔗 Deploying deep learning models on cloud to use on mobile devices",
-//        "🔗 Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-//      ],
-//      softwareSkills: [
-//        {
-//          skillName: "GCP",
-//          fontAwesomeClassname: "simple-icons:googlecloud",
-//          style: {
-//            color: "#4285F4",
-//          },
-//        },
-//        {
-//          skillName: "AWS",
-//          fontAwesomeClassname: "simple-icons:amazonaws",
-//          style: {
-//            color: "#FF9900",
-//          },
-//        },
-//        {
-//          skillName: "Azure",
-//          fontAwesomeClassname: "simple-icons:microsoftazure",
-//          style: {
-//            color: "#0089D6",
-//          },
-//        },
-//        {
-//          skillName: "Firebase",
-//          fontAwesomeClassname: "simple-icons:firebase",
-//          style: {
-//            color: "#FFCA28",
-//          },
-//        },
-//        {
-//          skillName: "PostgreSQL",
-//          fontAwesomeClassname: "simple-icons:postgresql",
-//          style: {
-//            color: "#336791",
-//          },
-//        },
-//        {
-//          skillName: "MongoDB",
-//          fontAwesomeClassname: "simple-icons:mongodb",
-//          style: {
-//            color: "#47A248",
-//          },
-//        },
-//        {
-//          skillName: "Docker",
-//          fontAwesomeClassname: "simple-icons:docker",
-//          style: {
-//            color: "#1488C6",
-//          },
-//        },
-//        {
-//          skillName: "Kubernetes",
-//          fontAwesomeClassname: "simple-icons:kubernetes",
-//          style: {
-//            color: "#326CE5",
-//          },
-//        },
-//      ],
-//    },
 //    {
 //      title: "UI/UX Design",
 //      fileName: "DesignImg",
@@ -615,7 +700,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Haura.png",
     description:
-      "Passionate about helping people and organizations grow. I'm seeking opportunities to contribute in Organization Development, Learning, and People Development, and I'm enthusiastic to discuss how I can add value to growth and development initiatives.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
