@@ -154,7 +154,7 @@ const competitiveSites = {
   competitiveSites: [
     {
       skillName: "Power Point",
-      imageSrc: "assets/images/address_image.svg",
+      imageSrc: "skills/powerpoint.png",
     },
     {
       skillName: "Word",
