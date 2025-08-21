@@ -700,7 +700,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Haura.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Passionate about helping people and organizations grow. I'm seeking opportunities to contribute in Organization Development, Learning, and People Development, and I'm enthusiastic to discuss how I can add value to growth and development initiatives.",
   },
   blogSection: {
     title: "Blogs",
