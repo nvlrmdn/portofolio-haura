@@ -215,7 +215,7 @@ const degrees = {
       descriptions: [
         "🔗 Peserta OSN Fisika tingkat Kabupaten Bogor 2017-2018",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.school.ciptacendikia.com/",
     },
   ],
 };
