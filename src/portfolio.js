@@ -153,28 +153,40 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      skillName: "Power Point",
-      imageSrc: "skills/powerpoint.png",
+      skillName: "BNSP",
+      imageSrc: "skills/bnsp.png",
     },
     {
-      skillName: "Word",
-      imageSrc: "word.png",
+      skillName: "LinkedIn Learning",
+      imageSrc: "skills/linkedinlearning.png",
     },
     {
-      skillName: "Excel",
-      imageSrc: "excel.png",
+      skillName: "Udemy",
+      imageSrc: "skills/udemy.png",
     },
     {
-      skillName: "Visio",
-      imageSrc: "visio.png",
+      skillName: "Human Capital University",
+      imageSrc: "skills/hcu.png",
     },
     {
-      skillName: "Tableau",
-      imageSrc: "tableau.png",
+      skillName: "Kelas HR",
+      imageSrc: "skills/kelashr.png",
     },
     {
-      skillName: "Draw.io",
-      imageSrc: "drawio.png",
+      skillName: "Gadjian Academy",
+      imageSrc: "skills/gadjian.png",
+    },
+        {
+      skillName: "Pacmann Academy",
+      imageSrc: "skills/pacman.png",
+    },
+    {
+      skillName: "Quantum HR Indonesia",
+      imageSrc: "skills/quantum.png",
+    },
+    {
+      skillName: "Edugate",
+      imageSrc: "skills/edugate.png",
     },
   ],
 };
@@ -182,17 +194,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Telkom University",
+      subtitle: "Industrial Engineering",
+      logo_path: "telkom.png",
+      alt_name: "Telkom University",
+      duration: "2019 - 2023",
       descriptions: [
-        "🔗 I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "🔗 Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "🔗 I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "🔗 Proposed Design of Flexible Working Arrangement Based on Identification of Employee, Characteristic using Cluster Analysis at XYZ Faculty",
+        "🔗 Human Resource Management, Human Resource Planning, Talent Management,",
+        "🔗 Industrial Organization Management System, Industrial Psychology, Work System Design and Ergonomic, Project Management",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://telkomuniversity.ac.id/",
     },
     {
       title: "Indiana University Bloomington",
