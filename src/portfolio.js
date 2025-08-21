@@ -73,116 +73,31 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Organization and People Development",
+      title: "Organization Development (OD)",
       fileName: "DataScienceImg",
       skills: [
-        "🔗 Designed and implemented internal and intercompany business processes, organizational structures, job descriptions, and job evaluations to support strategic alignment and operational efficiency.",
-        "🔗 Designed Individual Development Plans (IDP) to align employee growth with organizational goals.",
-        "🔗 Developed comprehensive technical skill assessments for 24 positions, integrating conceptual, case-based, and supported company-wide performance appraisals and skill mapping for over 200 employees, ensuring alignment between individual capabilities and organizational goals.",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Power Point",
-          imageSrc: "powerpoint.png",
-        },
-        {
-          skillName: "Word",
-          imageSrc: "word.png",
-        },
-        {
-          skillName: "Excel",
-          imageSrc: "excel.png",
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
+        "🔗 Organization Design – Designing organizational structures, conducting job analysis and evaluation, developing career paths and succession planning, and optimizing workforce planning.",
+        "🔗 Organization Process & System – Designing and streamlining business processes, conducting workload analysis, and integrating HRIS/policy development to enhance efficiency and alignment.",
+        "🔗 Competency & Capability Framework – Building organizational competency frameworks to align people capability with strategic goals.",
+        "🔗 Performance & Change Management – Designing performance management systems (KPI, OKR, 360° feedback), conducting organizational diagnosis, and facilitating change management initiatives.",
       ],
     },
     {
-      title: "Human Capital Organizational Development",
+      title: "People Development (PD / L&D)",
       fileName: "FullStackImg",
       skills: [
-        "🔗 Supported a complex organizational transformation initiatives aimed at enhancing operational efficiency and fostering innovation. ",
-        "🔗 Identified organizational performance barriers through interviews, surveys, and observations to drive productivity improvement. ",
-        "🔗 Conducted research and benchmarking on industry best practices to generate actionable recommendations tailored to the organization’s transformation objectives.",
+        "🔗 Learning Needs Analysis – Identifying skill gaps through TNA to ensure learning aligns with organizational priorities.",
+        "🔗 Learning Design & Delivery – Creating learning programs using ADDIE, blended learning, and e-learning approaches.",
+        "🔗 Growth Enablement – Developing Individual Development Plans (IDP), facilitating coaching & mentoring, and evaluating learning impact (Kirkpatrick).",
       ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+    },
+    {
+      title: "Talent Management",
+      fileName: "CloudInfraImg",
+      skills: [
+        "🔗 Talent Mapping & Succession Planning – Identifying high potentials, building succession pipelines, and preparing future leaders.",
+        "🔗 Career Development & Engagement – Designing career pathing, fostering employee engagement, and implementing retention strategies.",
+        "🔗 Recognition & Retention – Supporting reward and recognition initiatives to sustain long-term talent commitment and organizational performance.",
       ],
     },
 //    {
@@ -700,7 +615,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Haura.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Passionate about helping people and organizations grow. I'm seeking opportunities to contribute in Organization Development, Learning, and People Development, and I'm enthusiastic to discuss how I can add value to growth and development initiatives.",
   },
   blogSection: {
     title: "Blogs",
