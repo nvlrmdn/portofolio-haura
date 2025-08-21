@@ -198,7 +198,7 @@ const skills = {
           },
         },
       ],
-    };
+    },
 //    {
 //      title: "Cloud Infra-Architecture",
 //      fileName: "CloudInfraImg",
@@ -306,8 +306,8 @@ const skills = {
 //        },
 //      ],
 //    },
-//  ],
-//};
+  ],
+};
 
 // Education Page
 const competitiveSites = {
