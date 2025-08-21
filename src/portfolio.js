@@ -87,12 +87,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Organization and People Development",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "🔗 Designed and implemented internal and intercompany business processes, organizational structures, job descriptions, and job evaluations to support strategic alignment and operational efficiency.",
+        "🔗 Designed Individual Development Plans (IDP) to align employee growth with organizational goals.",
+        "🔗 Developed comprehensive technical skill assessments for 24 positions, integrating conceptual, case-based, and supported company-wide performance appraisals and skill mapping for over 200 employees, ensuring alignment between individual capabilities and organizational goals.",
       ],
       softwareSkills: [
         {
@@ -132,12 +132,12 @@ const skills = {
       ],
     },
     {
-      title: "Full Stack Development",
+      title: "Human Capital Organizational Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "🔗 Supported a complex organizational transformation initiatives aimed at enhancing operational efficiency and fostering innovation. ",
+        "🔗 Identified organizational performance barriers through interviews, surveys, and observations to drive productivity improvement. ",
+        "🔗 Conducted research and benchmarking on industry best practices to generate actionable recommendations tailored to the organization’s transformation objectives.",
       ],
       softwareSkills: [
         {
@@ -217,10 +217,10 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "🔗 Experience working on multiple cloud platforms",
+        "🔗 Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "🔗 Deploying deep learning models on cloud to use on mobile devices",
+        "🔗 Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
@@ -285,9 +285,9 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "🔗 Designing highly attractive user interface for mobile and web applications",
+        "🔗 Customizing logo designs and building logos from scratch",
+        "🔗 Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
         {
@@ -386,9 +386,9 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "🔗 I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "🔗 Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "🔗 I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
       website_link: "http://iiitk.ac.in",
     },
@@ -399,9 +399,9 @@ const degrees = {
       alt_name: "Indiana University Bloomington",
       duration: "2021 - 2023",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "🔗 I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+        "🔗 Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+        "🔗 During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
       ],
       website_link: "https://www.indiana.edu/",
     },
