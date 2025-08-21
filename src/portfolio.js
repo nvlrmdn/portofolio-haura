@@ -200,17 +200,17 @@ const degrees = {
       alt_name: "Telkom University",
       duration: "2019 - 2023",
       descriptions: [
-        "🔗 Proposed Design of Flexible Working Arrangement Based on Identification of Employee, Characteristic using Cluster Analysis at XYZ Faculty",
-        "🔗 Human Resource Management, Human Resource Planning, Talent Management,",
-        "🔗 Industrial Organization Management System, Industrial Psychology, Work System Design and Ergonomic, Project Management",
+        "🔗 GPA: 3.11 / 4.00",
+        "🔗 Thesis: Proposed Design of Flexible Working Arrangement Based on Identification of Employee Characteristic using Cluster Analysis at XYZ Faculty",
+        "🔗 ⁠Course Taken: Human Resource Management, Human Resource Planning, Talent Management, Industrial Organization Management System, Industrial Psychology, Work System Design and Ergonomic, Project Management",
       ],
       website_link: "https://telkomuniversity.ac.id/",
     },
     {
-      title: "Indiana University Bloomington",
+      title: "SMA Cipta Cendikia",
       subtitle: "M.S. in Computer Science",
       logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
+      alt_name: "SMA Cipta Cendikia",
       duration: "2021 - 2023",
       descriptions: [
         "🔗 I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
