@@ -234,7 +234,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1SUZ48N4HFDbX8tIIsXHXrD58HsmoSqlf/view?usp=sharing",
       alt_name: "BNSP",
-      color_code: "#8C151599",
+      color_code: "#fefefec8",
     },
     {
       title: "HR Competency",
@@ -243,7 +243,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1AZ3LKEkKfmdDbgqUYVhL7DjqXsZZlBp3/view?usp=sharing",
       alt_name: "Human Capital University",
-      color_code: "#230c0d99",
+      color_code: "#fefefec8",
     },
     {
       title: "Organization Development Strategy ",
@@ -252,7 +252,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1utle0w1hOKzMC9K6w13Q7_5rUjTwsGsw/view?usp=drive_link",
       alt_name: "KelasHR",
-      color_code: "#c3484899",
+      color_code: "#fefefec8",
     },
     {
       title: "Organization Learning and Development",
@@ -261,7 +261,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1CTohI8uLlzKG527vES4weHXChTycXvEV/view?usp=sharing",
       alt_name: "LinkedIn Learning",
-      color_code: "#1F70C199",
+      color_code: "#fefefec8",
     },
     {
       title: "Cara Restrukturisasi Organisasi",
@@ -270,7 +270,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1LM66tcrmgqa2jy8d2wii4rTI-g7Huz0i/view?usp=sharing",
       alt_name: "Gadjian Academy",
-      color_code: "#D83B0199",
+      color_code: "#fefefec8",
     },
     {
       title: "Training Need Analysis",
@@ -279,7 +279,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1oOeupR7Bnc1DaEFKgCqLn6IIKbYsaWh_/view?usp=sharing",
       alt_name: "KelasHR",
-      color_code: "#c3484899",
+      color_code: "#fefefec8",
     },
     {
       title: "Manajemen Perubahan untuk HR Navigasi Transformasi Organisasi",
@@ -288,7 +288,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1THXvYI2ci4mLMOzXteBVdQd9dVi_wFpk/view?usp=sharing",
       alt_name: "Laksana Pedia",
-      color_code: "#ffffff99",
+      color_code: "#fefefec8",
     },
     {
       title: "KPI Based on Job Desc",
@@ -297,7 +297,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1xl4j7RYWGvZBNDtYkyiCHhY4PNeveD9T/view?usp=sharing",
       alt_name: "Quantum HR Indonesia",
-      color_code: "#fbfbfb99",
+      color_code: "#fefefec8",
     },
     {
       title: "Workload Analysis (Analisis Beban Kerja)",
@@ -306,7 +306,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1THXvYI2ci4mLMOzXteBVdQd9dVi_wFpk/view?usp=sharing",
       alt_name: "KelasHR",
-      color_code: "#c3484899",
+      color_code: "#fefefec8",
     },
     {
       title: "Six Sigma Implementation in HR Function",
@@ -315,7 +315,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/16TvJYdFVyqPzsGu1PMq6CbKLtYdf_a9N/view?usp=sharing",
       alt_name: "KelasHR",
-      color_code: "#c3484899",
+      color_code: "#fefefec8",
     },
     {
       title: "Basic Fundamental of HR Analytics",
@@ -324,7 +324,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1gjNBFvwCbcxh17wUZ_1T4NFjf8D2lqg1/view?usp=sharing",
       alt_name: "Gadjian Academy",
-      color_code: "#24384e99",
+      color_code: "#fefefec8",
     },
     {
       title: "HR as Strategic Business Partner",
@@ -333,7 +333,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1St2SEiUlmzwElPFznU9LwDV2yNi0k8XZ/view?usp=sharing",
       alt_name: "LinkedIn Learning",
-      color_code: "#4285F499",
+      color_code: "#fefefec8",
     },
         {
       title: "Membuat Dashboard HR dengan Tableau",
@@ -342,7 +342,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1hYzo4a_AkBh2VJXRzz-yXKU6E0f-kvri/view?usp=sharing",
       alt_name: "Pacmann Academy",
-      color_code: "#fbfbfb99",
+      color_code: "#fefefec8",
     },
     {
       title: "English Proficiency Test",
@@ -351,7 +351,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1qCXrgMSFepwjRzwacys23_npTqzQM6uP/view?usp=sharing",
       alt_name: "Telkom University Language Center",
-      color_code: "#f5727299",
+      color_code: "#fefefec8",
     },
     {
       title: "Compensation and Benefit",
@@ -360,7 +360,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1r8dAyznOCLZV_-4KlsjHaOmywZkmoBoe/view?usp=drive_link",
       alt_name: "Human Capital University",
-      color_code: "#230c0d99",
+      color_code: "#fefefec8",
     },
     {
       title: "Human Resource: Strategy Workforce",
@@ -369,7 +369,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1gdgQX9D8Dyhgk76DVU6m7Q8LKUbUbNMp/view?usp=sharing",
       alt_name: "LinkedIn Learning",
-      color_code: "#4285F499",
+      color_code: "#fefefec8",
     },
     {
       title: "SAP HR050 - Business Process in Human Capital Management",
@@ -378,7 +378,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/12Vn9hBIPuLfOqYDy_1q08fkInjK2rPop/view?usp=sharing",
       alt_name: "Edugate",
-      color_code: "#f4426899",
+      color_code: "#fefefec8",
     },
     {
       title: "Training and Development",
@@ -387,7 +387,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1gdgQX9D8Dyhgk76DVU6m7Q8LKUbUbNMp/view?usp=sharing",
       alt_name: "Human Capital University",
-      color_code: "#230c0d99",
+      color_code: "#fefefec8",
     },
         {
       title: "Organization Development - How to Diagnose Organization",
