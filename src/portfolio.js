@@ -429,15 +429,8 @@ const experience = {
           logo_path: "i2.png",
           duration: "Sept 2024 - Apr 2025",
           location: "South Tangerang, Indonesia",
-          description:[
-            "🌟 Designed and implemented internal and intercompany business processes, organizational structures, job descriptions, and job evaluations to support strategic alignment and operational efficiency.",
-            "🌟 Developed comprehensive technical skill assessments for 24 positions, integrating conceptual, case-based, and supported company-wide performance appraisals and skill mapping for over 200 employees, ensuring alignment between individual capabilities and organizational goals.",
-            "🌟 Conducted learning needs analyses across divisions to identify competency gaps and enhance team and individualperformance through development programs.",
-            "🌟 Designed Individual Development Plans (IDP) to align employee growth with organizational goals.",
-            "🌟 Contributed to the design and development of competency-based training modules using the ADDIE framework to support continuous learning and performance improvement.",
-            "🌟 Participated in the end-to-end planning, coordination, execution, evaluation, and documentation of three training programs, ensuring smooth implementation and high participant engagement.",
-            "🌟 Designed a project documentation system aligned with business processes and served as the person in charge formanaging records of 70+ projects, ensuring proper integration into the company’s internal system.",
-          ],
+          description:
+            "Designed and implemented internal and intercompany business processes, organizational structures, job descriptions, and job evaluations to support strategic alignment and operational efficiency. Developed comprehensive technical skill assessments for 24 positions, integrating conceptual, case-based, and supported company-wide performance appraisals and skill mapping for over 200 employees, ensuring alignment between individual capabilities and organizational goals. Conducted learning needs analyses across divisions to identify competency gaps and enhance team and individual performance through development programs. Designed Individual Development Plans (IDP) to align employee growth with organizational goals. Contributed to the design and development of competency-based training modules using the ADDIE framework to support continuous learning and performance improvement. Participated in the end-to-end planning, coordination, execution, evaluation, and documentation of three training programs, ensuring smooth implementation and high participant engagement. Designed a project documentation system aligned with business processes and served as the person in charge for managing records of 70+ projects, ensuring proper integration into the company’s internal system.",
             color: "#000000",
         },
         {
@@ -447,14 +440,8 @@ const experience = {
           logo_path: "i2.png",
           duration: "Feb 2024 - Sept 2024",
           location: "South Tangerang, Indonesia",
-          description:[
-            "🌟 Supported a complex organizational transformation initiatives aimed at enhancing operational efficiency and fostering innovation.",
-            "🌟 Identified organizational performance barriers through interviews and surveys to drive productivity improvement.",
-            "🌟 Conducted research and benchmarking on industry best practices to generate actionable recommendations tailored to the organization’s transformation objectives.",
-            "🌟 Developed a compehensive competency framework for 24 job positions, covering both technical and non-technical skills, aligned with organizational goals and employee development plans.",
-            "🌟 Designed and implemented employee career path systems, including job rotation and promotion frameworks, integrated with competency assessments and performance appraisals.",
-            "🌟 Designed, implemented, and led the development, of integrated Task Management System and Human Resource Information System (HRIS) incorporating workload calculation to optimize resource allocation and ensure seamless integration of organizational structure, job data, performance, and development metrics.",
-          ],
+          description:
+            "Supported complex organizational transformation initiatives aimed at enhancing operational efficiency and fostering innovation. Identified organizational performance barriers through interviews and surveys to drive productivity improvement. Conducted research and benchmarking on industry best practices to generate actionable recommendations tailored to the organization’s transformation objectives. Developed a comprehensive competency framework for 24 job positions, covering both technical and non-technical skills, aligned with organizational goals and employee development plans. Designed and implemented employee career path systems, including job rotation and promotion frameworks, integrated with competency assessments and performance appraisals. Designed, implemented, and led the development of an integrated Task Management System and Human Resource Information System (HRIS), incorporating workload calculation to optimize resource allocation and ensure seamless integration of organizational structure, job data, performance, and development metrics.",
             color: "#000000",
         },
         {
@@ -464,11 +451,8 @@ const experience = {
           logo_path: "i2.png",
           duration: "Nov 2023 - Feb 2024",
           location: "South Tangerang, Indonesia",
-          description:[
-            "🌟 Reviewed and researched methodologies to support organizational transformation in areas such as manpower planning, performance management, and talent development.",
-            "🌟 Supported the planning and execution of 4 (four) On-the-Job Training (OJT) programs ans assisted in aligning team OKRs with strategic business priorities for two departments.",
-            "🌟 Designed and implemented performance appraisal systems, utilizing 360-degree feedback for managerial levels and KPI/OKR-based evaluations for employee levels.",
-          ],
+          description:
+            "Reviewed and researched methodologies to support organizational transformation in areas such as manpower planning, performance management, and talent development. Supported the planning and execution of four On-the-Job Training (OJT) programs and assisted in aligning team OKRs with strategic business priorities for two departments. Designed and implemented performance appraisal systems, utilizing 360-degree feedback for managerial levels and KPI/OKR-based evaluations for employee levels.",
             color: "#000000",
         },
       ],
@@ -483,11 +467,8 @@ const experience = {
           logo_path: "telkomsel.png",
           duration: "July 2022 - Sept 2022",
           location: "Jakarta, Indonesia",
-          description:[
-            "🌟 Curated and developed over 10 e-learning materials aligned with targeted employee competencies for internal staff and MBKM internship participants.",
-            "🌟 Supported the data entry and management of academic transcripts for more than 500 MBKM program participants.",
-            "🌟 Researched and analyzed 12 offline and hybrid course offerings from top 25 QS-ranked US universities to aligntraining programs with critical corporate capabilities.",
-          ],
+          description:
+            "Curated and developed over 10 e-learning materials aligned with targeted employee competencies for internal staff and MBKM internship participants. Supported the data entry and management of academic transcripts for more than 500 MBKM program participants. Researched and analyzed 12 offline and hybrid course offerings from top 25 QS-ranked US universities to align training programs with critical corporate capabilities.",
           color: "#000000",
         },
       ],
@@ -502,11 +483,8 @@ const experience = {
           logo_path: "telkom.png",
           duration: "Feb 2022 - Juny 2023",
           location: "Bandung, Indonesia",
-          description:[
-            "🌟 Assisted and assesed over 750 students in 14 practicum modules by utilizing a Learning Management System (LMS) for administering pre-tests, laboratory sessions, and conducting post-assessments.",
-            "🌟 Led 3 - 6 members of team to developed practicum modules for Information Systems Analysis and Design, Application Development, and Algorithm & Programming.",
-            "🌟 Coordinated and conducted meetings with lecturers to ensure readiness and alignment across 3 practicum modules.",
-          ],
+          description:
+            "Assisted and assessed over 750 students in 14 practicum modules by utilizing a Learning Management System (LMS) for administering pre-tests, laboratory sessions, and conducting post-assessments. Led a team of 3–6 members to develop practicum modules for Information Systems Analysis and Design, Application Development, and Algorithm & Programming. Coordinated and conducted meetings with lecturers to ensure readiness and alignment across three practicum modules.",
           color: "#4285F4",
         },
         {
@@ -516,11 +494,8 @@ const experience = {
           logo_path: "telkom.png",
           duration: "July 2021 - Juny 2022",
           location: "Bandung, Indonesia",
-          description:[
-            "🌟 Managed the preparation and administration of all formal documents, including 5 proposals, 4 MoUs, 100+ official letters, 3 Terms of Reference (TORs), and 50+ Minutes of Meeting (MoMs).",
-            "🌟 Oversaw the recruitment administration of 200+ organizational committee members and outsourced personnel including CV review, interview coordination, and conducting interview.",
-            "🌟 Supported executive leadership in strategic decision-making and management of over 100 committee members during an 11-month period.",
-          ],
+          description:
+            "Managed the preparation and administration of all formal documents, including 5 proposals, 4 MoUs, 100+ official letters, 3 Terms of Reference (TORs), and 50+ Minutes of Meeting (MoMs). Oversaw the recruitment administration of 200+ organizational committee members and outsourced personnel, including CV review, interview coordination, and conducting interviews. Supported executive leadership in strategic decision-making and management of over 100 committee members during an 11-month period.",
           color: "#4285F4",
         },
       ],
