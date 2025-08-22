@@ -191,7 +191,7 @@ const degrees = {
   degrees: [
     {
       title: "Telkom University",
-      subtitle: "Industrial Engineering",
+      subtitle: "Industrial Engineering (Focused: Human Capital Management)",
       logo_path: "telkom.png",
       alt_name: "Telkom University",
       duration: "2019 - 2023",
@@ -204,12 +204,13 @@ const degrees = {
     },
     {
       title: "SMA Cipta Cendikia",
-      subtitle: "MIPA",
+      subtitle: "Science and Mathematic (Focused: Physics)",
       logo_path: "smacendikia.png",
       alt_name: "SMA Cipta Cendikia",
       duration: "2016 - 2019",
       descriptions: [
-        "🌟 Peserta OSN Fisika tingkat Kabupaten Bogor 2017-2018",
+        "🌟 Participant of National Science Olympiad in Physics (District Level – Bogor Regency) 2017–2018",
+        "🌟 Achieved 1st rank in class every semester",
       ],
       website_link: "https://www.school.ciptacendikia.com/",
     },
@@ -219,11 +220,11 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "Compensation & Benefit",
+      subtitle: "Human Capital University",
+      logo_path: "hcu.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://drive.google.com/drive/folders/1lhqV44273V4EHz51uH9iRDvaThvpHCt-",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
