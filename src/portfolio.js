@@ -241,18 +241,18 @@ const certifications = {
       subtitle: "Human Capital University",
       logo_path: "hcu.png",
       certificate_link:
-        "https://drive.google.com/file/d/1hYzo4a_AkBh2VJXRzz-yXKU6E0f-kvri/view?usp=sharing",
+        "https://drive.google.com/file/d/1AZ3LKEkKfmdDbgqUYVhL7DjqXsZZlBp3/view?usp=sharing",
       alt_name: "Human Capital University",
-      color_code: "#00000099",
+      color_code: "#230c0d99",
     },
     {
       title: "Organization Development Strategy ",
       subtitle: "KelasHR",
       logo_path: "kelashr.png",
       certificate_link:
-        "https://drive.google.com/file/d/16TvJYdFVyqPzsGu1PMq6CbKLtYdf_a9N/view?usp=sharing",
+        "https://drive.google.com/file/d/1utle0w1hOKzMC9K6w13Q7_5rUjTwsGsw/view?usp=drive_link",
       alt_name: "KelasHR",
-      color_code: "#0C9D5899",
+      color_code: "#c3484899",
     },
     {
       title: "Organization Learning and Development",
@@ -279,7 +279,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1oOeupR7Bnc1DaEFKgCqLn6IIKbYsaWh_/view?usp=sharing",
       alt_name: "KelasHR",
-      color_code: "#1F70C199",
+      color_code: "#c3484899",
     },
     {
       title: "Manajemen Perubahan untuk HR Navigasi Transformasi Organisasi",
@@ -288,16 +288,16 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1THXvYI2ci4mLMOzXteBVdQd9dVi_wFpk/view?usp=sharing",
       alt_name: "Laksana Pedia",
-      color_code: "#0C9D5899",
+      color_code: "#ffffff99",
     },
     {
       title: "KPI Based on Job Desc",
       subtitle: "Quantum HR Indonesia",
       logo_path: "quantum.png",
       certificate_link:
-        "https://drive.google.com/file/d/1gjNBFvwCbcxh17wUZ_1T4NFjf8D2lqg1/view?usp=sharing",
+        "https://drive.google.com/file/d/1xl4j7RYWGvZBNDtYkyiCHhY4PNeveD9T/view?usp=sharing",
       alt_name: "Quantum HR Indonesia",
-      color_code: "#00000099",
+      color_code: "#fbfbfb99",
     },
     {
       title: "Workload Analysis (Analisis Beban Kerja)",
@@ -306,7 +306,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1THXvYI2ci4mLMOzXteBVdQd9dVi_wFpk/view?usp=sharing",
       alt_name: "KelasHR",
-      color_code: "#2A73CC",
+      color_code: "#c3484899",
     },
     {
       title: "Six Sigma Implementation in HR Function",
@@ -315,7 +315,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/16TvJYdFVyqPzsGu1PMq6CbKLtYdf_a9N/view?usp=sharing",
       alt_name: "KelasHR",
-      color_code: "#4285F499",
+      color_code: "#c3484899",
     },
     {
       title: "Basic Fundamental of HR Analytics",
@@ -324,7 +324,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1gjNBFvwCbcxh17wUZ_1T4NFjf8D2lqg1/view?usp=sharing",
       alt_name: "Gadjian Academy",
-      color_code: "#FFBB0099",
+      color_code: "#24384e99",
     },
     {
       title: "HR as Strategic Business Partner",
@@ -342,7 +342,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1hYzo4a_AkBh2VJXRzz-yXKU6E0f-kvri/view?usp=sharing",
       alt_name: "Pacmann Academy",
-      color_code: "#2A73CC",
+      color_code: "#fbfbfb99",
     },
     {
       title: "English Proficiency Test",
@@ -351,7 +351,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1qCXrgMSFepwjRzwacys23_npTqzQM6uP/view?usp=sharing",
       alt_name: "Telkom University Language Center",
-      color_code: "#4285F499",
+      color_code: "#f5727299",
     },
     {
       title: "Compensation and Benefit",
@@ -360,7 +360,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1r8dAyznOCLZV_-4KlsjHaOmywZkmoBoe/view?usp=drive_link",
       alt_name: "Human Capital University",
-      color_code: "#FFBB0099",
+      color_code: "#230c0d99",
     },
     {
       title: "Human Resource: Strategy Workforce",
@@ -378,7 +378,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/12Vn9hBIPuLfOqYDy_1q08fkInjK2rPop/view?usp=sharing",
       alt_name: "Edugate",
-      color_code: "#4285F499",
+      color_code: "#f4426899",
     },
     {
       title: "Training and Development",
@@ -387,7 +387,25 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1gdgQX9D8Dyhgk76DVU6m7Q8LKUbUbNMp/view?usp=sharing",
       alt_name: "Human Capital University",
-      color_code: "#4285F499",
+      color_code: "#230c0d99",
+    },
+        {
+      title: "Organization Development - How to Diagnose Organization",
+      subtitle: "Udemy",
+      logo_path: "udemy.png",
+      certificate_link:
+        "https://drive.google.com/file/d/12Vn9hBIPuLfOqYDy_1q08fkInjK2rPop/view?usp=sharing",
+      alt_name: "Udemy",
+      color_code: "#fefefec8",
+    },
+    {
+      title: "Mendesign Evaluasi Jabatan & Penyusunan Struktur Gaji",
+      subtitle: "Udemy",
+      logo_path: "udemy.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1gdgQX9D8Dyhgk76DVU6m7Q8LKUbUbNMp/view?usp=sharing",
+      alt_name: "Udemy",
+      color_code: "#fefefec8",
     },
   ],
 };
