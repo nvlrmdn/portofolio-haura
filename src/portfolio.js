@@ -464,7 +464,7 @@ const experience = {
           title: "Learning Management",
           company: "PT Telekomunikasi Selular (Telkomsel)",
           company_url: "https://career.telkomsel.com/",
-          logo_path: "telkomsel.png",
+          logo_path: "tiktok_logo.png",
           duration: "July 2022 - Sept 2022",
           location: "Jakarta, Indonesia",
           description:
