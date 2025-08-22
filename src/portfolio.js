@@ -1,11 +1,7 @@
-/* Change this file to get your personal Porfolio */
-
-// Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: false,
 };
 
-//SEO Related settings
 const seo = {
   title: "Haura's Portfolio",
   description:
@@ -33,14 +29,14 @@ const socialMediaLinks = [
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/haura-haya-santosa/",
-    fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
+    fontAwesomeIcon: "fa-linkedin-in",
+    backgroundColor: "#0077B5",
   },
   {
     name: "Gmail",
     link: "mailto:haura.hayasantosa@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+    fontAwesomeIcon: "fa-google",
+    backgroundColor: "#D14836",
   },
 //  {
 //    name: "X-Twitter",
@@ -68,10 +64,10 @@ const skills = {
       title: "Organization Development (OD)",
       fileName: "DataScienceImg",
       skills: [
-        "🔗 Organization Design – Designing organizational structures, conducting job analysis and evaluation, developing career paths and succession planning, and optimizing workforce planning.",
-        "🔗 Organization Process & System – Designing and streamlining business processes, conducting workload analysis, and integrating HRIS/policy development to enhance efficiency and alignment.",
-        "🔗 Competency & Capability Framework – Building organizational competency frameworks to align people capability with strategic goals.",
-        "🔗 Performance & Change Management – Designing performance management systems (KPI, OKR, 360° feedback), conducting organizational diagnosis, and facilitating change management initiatives.",
+        "🌟 Organization Design – Designing organizational structures, conducting job analysis and evaluation, developing career paths and succession planning, and optimizing workforce planning.",
+        "🌟 Organization Process & System – Designing and streamlining business processes, conducting workload analysis, and integrating HRIS/policy development to enhance efficiency and alignment.",
+        "🌟 Competency & Capability Framework – Building organizational competency frameworks to align people capability with strategic goals.",
+        "🌟 Performance & Change Management – Designing performance management systems (KPI, OKR, 360° feedback), conducting organizational diagnosis, and facilitating change management initiatives.",
       ],
       softwareSkills: [
         {
@@ -104,9 +100,9 @@ const skills = {
       title: "People Development (PD / L&D)",
       fileName: "FullStackImg",
       skills: [
-        "🔗 Learning Needs Analysis – Identifying skill gaps through TNA to ensure learning aligns with organizational priorities.",
-        "🔗 Learning Design & Delivery – Creating learning programs using ADDIE, blended learning, and e-learning approaches.",
-        "🔗 Growth Enablement – Developing Individual Development Plans (IDP), facilitating coaching & mentoring, and evaluating learning impact (Kirkpatrick).",
+        "🌟 Learning Needs Analysis – Identifying skill gaps through TNA to ensure learning aligns with organizational priorities.",
+        "🌟 Learning Design & Delivery – Creating learning programs using ADDIE, blended learning, and e-learning approaches.",
+        "🌟 Growth Enablement – Developing Individual Development Plans (IDP), facilitating coaching & mentoring, and evaluating learning impact (Kirkpatrick).",
       ],
       softwareSkills: [
         {
@@ -127,9 +123,9 @@ const skills = {
       title: "Talent Management",
       fileName: "CloudInfraImg",
       skills: [
-        "🔗 Talent Mapping & Succession Planning – Identifying high potentials, building succession pipelines, and preparing future leaders.",
-        "🔗 Career Development & Engagement – Designing career pathing, fostering employee engagement, and implementing retention strategies.",
-        "🔗 Recognition & Retention – Supporting reward and recognition initiatives to sustain long-term talent commitment and organizational performance.",
+        "🌟 Talent Mapping & Succession Planning – Identifying high potentials, building succession pipelines, and preparing future leaders.",
+        "🌟 Career Development & Engagement – Designing career pathing, fostering employee engagement, and implementing retention strategies.",
+        "🌟 Recognition & Retention – Supporting reward and recognition initiatives to sustain long-term talent commitment and organizational performance.",
       ],
       softwareSkills: [
         {
@@ -200,9 +196,9 @@ const degrees = {
       alt_name: "Telkom University",
       duration: "2019 - 2023",
       descriptions: [
-        "🔗 GPA: 3.11 / 4.00",
-        "🔗 Thesis: Proposed Design of Flexible Working Arrangement Based on Identification of Employee Characteristic using Cluster Analysis at XYZ Faculty",
-        "🔗 ⁠Course Taken: Human Resource Management, Human Resource Planning, Talent Management, Industrial Organization Management System, Industrial Psychology, Work System Design and Ergonomic, Project Management",
+        "🌟 GPA: 3.11 / 4.00",
+        "🌟 Thesis: Proposed Design of Flexible Working Arrangement Based on Identification of Employee Characteristic using Cluster Analysis at XYZ Faculty",
+        "🌟 ⁠Course Taken: Human Resource Management, Human Resource Planning, Talent Management, Industrial Organization Management System, Industrial Psychology, Work System Design and Ergonomic, Project Management",
       ],
       website_link: "https://telkomuniversity.ac.id/",
     },
@@ -213,7 +209,7 @@ const degrees = {
       alt_name: "SMA Cipta Cendikia",
       duration: "2016 - 2019",
       descriptions: [
-        "🔗 Peserta OSN Fisika tingkat Kabupaten Bogor 2017-2018",
+        "🌟 Peserta OSN Fisika tingkat Kabupaten Bogor 2017-2018",
       ],
       website_link: "https://www.school.ciptacendikia.com/",
     },
