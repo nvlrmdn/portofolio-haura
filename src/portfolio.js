@@ -461,14 +461,14 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          title: "Learning Management",
+          company: "PT Telekomunikasi Selular (Telkomsel)",
+          company_url: "https://career.telkomsel.com/",
+          logo_path: "telkomsel.png",
+          duration: "July 2022 - Sept 2022",
+          location: "Jakarta, Indonesia",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Curated and developed over 10 e-learning materials aligned with targeted employee competencies for internal staff and MBKM internship participants. Supported the data entry and management of academic transcripts for more than 500 MBKM program participants. Researched and analyzed 12 offline and hybrid course offerings from top 25 QS-ranked US universities to align training programs with critical corporate capabilities.",
           color: "#000000",
         },
         {
