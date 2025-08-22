@@ -304,7 +304,7 @@ const certifications = {
       subtitle: "KelasHR",
       logo_path: "kelashr.png",
       certificate_link:
-        "https://drive.google.com/file/d/1THXvYI2ci4mLMOzXteBVdQd9dVi_wFpk/view?usp=sharing",
+        "https://drive.google.com/file/d/1NuT7yUY43LT48Ge583nfPxU9A9U9bIOi/view?usp=sharing",
       alt_name: "KelasHR",
       color_code: "#fefefec8",
     },
