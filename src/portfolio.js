@@ -480,7 +480,7 @@ const experience = {
           title: "Enterprise System Engineering (ENSYSE) Laboratory - Practicum and Laboratory Assistant",
           company: "Telkom University",
           company_url: "https://telkomuniversity.ac.id/",
-          logo_path: "telkom.png",
+          logo_path: "ensys.png",
           duration: "Feb 2022 - Juny 2023",
           location: "Bandung, Indonesia",
           description:
