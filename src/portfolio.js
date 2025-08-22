@@ -491,7 +491,7 @@ const experience = {
           title: "Industrial Event and Competition (INVENTION) - Secretary",
           company: "Telkom University",
           company_url: "https://telkomuniversity.ac.id/",
-          logo_path: "telkom.png",
+          logo_path: "invention.png",
           duration: "July 2021 - Juny 2022",
           location: "Bandung, Indonesia",
           description:
